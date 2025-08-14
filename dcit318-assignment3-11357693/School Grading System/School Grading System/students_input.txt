@@ -1,0 +1,4 @@
+﻿101, Alice Smith, 84
+102, John Doe, 77
+103, Mary Johnson, 45
+104, Samuel Brown, 92
