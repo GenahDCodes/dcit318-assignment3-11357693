@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\cryptowalletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\cryptowalletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\mobilemoneyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\mobilemoneyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\banktransferprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\banktransferprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\itransactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\itransactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\consoleapp1\\finance management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4343B7F9-029E-4AA7-AD66-F4249D9D2E0C}|ConsoleApp1\\Finance Management.csproj|solutionrelative:consoleapp1\\finance management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\ITransactionProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\ITransactionProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FinanceApp.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\FinanceApp.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\FinanceApp.cs",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "ConsoleApp1\\FinanceApp.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAcwG8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:36:42.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:36:42.588Z"
             },
             {
               "$type": "Document",
@@ -73,14 +72,12 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:24:16.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:24:16.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SavingsAccount.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\SavingsAccount.cs",
@@ -88,12 +85,11 @@
               "RelativeToolTip": "ConsoleApp1\\SavingsAccount.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:35:50.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:35:50.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Account.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Account.cs",
@@ -101,12 +97,11 @@
               "RelativeToolTip": "ConsoleApp1\\Account.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:35:16.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:35:16.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CryptoWalletProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\CryptoWalletProcessor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\CryptoWalletProcessor.cs",
@@ -114,12 +109,11 @@
               "RelativeToolTip": "ConsoleApp1\\CryptoWalletProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:34:35.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:34:35.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MobileMoneyProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\MobileMoneyProcessor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\MobileMoneyProcessor.cs",
@@ -127,12 +121,11 @@
               "RelativeToolTip": "ConsoleApp1\\MobileMoneyProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:33:48.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:33:48.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BankTransferProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\BankTransferProcessor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\BankTransferProcessor.cs",
@@ -140,12 +133,11 @@
               "RelativeToolTip": "ConsoleApp1\\BankTransferProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:32:44.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:32:44.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ITransactionProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\ITransactionProcessor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\ITransactionProcessor.cs",
@@ -153,12 +145,11 @@
               "RelativeToolTip": "ConsoleApp1\\ITransactionProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:31:33.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:31:33.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Transaction.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Transaction.cs",
@@ -166,12 +157,11 @@
               "RelativeToolTip": "ConsoleApp1\\Transaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:29:16.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:29:16.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Finance Management.csproj",
               "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\ConsoleApp1\\Finance Management.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\Finance Management.csproj",
@@ -179,8 +169,7 @@
               "RelativeToolTip": "ConsoleApp1\\Finance Management.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-14T17:29:24.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:29:24.71Z"
             }
           ]
         }
