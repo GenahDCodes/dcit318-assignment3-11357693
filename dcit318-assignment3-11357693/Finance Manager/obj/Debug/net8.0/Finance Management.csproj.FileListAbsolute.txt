@@ -1,0 +1,28 @@
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\bin\Debug\net8.0\Finance Management.exe
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\bin\Debug\net8.0\Finance Management.deps.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\bin\Debug\net8.0\Finance Management.runtimeconfig.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\bin\Debug\net8.0\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\bin\Debug\net8.0\Finance Management.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.AssemblyInfoInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.AssemblyInfo.cs
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.csproj.CoreCompileInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\refint\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\Finance Management.genruntimeconfig.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\ConsoleApp1\obj\Debug\net8.0\ref\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\bin\Debug\net8.0\Finance Management.exe
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\bin\Debug\net8.0\Finance Management.deps.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\bin\Debug\net8.0\Finance Management.runtimeconfig.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\bin\Debug\net8.0\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\bin\Debug\net8.0\Finance Management.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.AssemblyInfoInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.AssemblyInfo.cs
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.csproj.CoreCompileInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\refint\Finance Management.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\Finance Management.genruntimeconfig.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Finance Manager\obj\Debug\net8.0\ref\Finance Management.dll
