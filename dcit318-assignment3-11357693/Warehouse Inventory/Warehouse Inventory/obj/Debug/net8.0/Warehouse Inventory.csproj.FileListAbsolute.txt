@@ -1,0 +1,15 @@
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\bin\Debug\net8.0\Warehouse Inventory.exe
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\bin\Debug\net8.0\Warehouse Inventory.deps.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\bin\Debug\net8.0\Warehouse Inventory.runtimeconfig.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\bin\Debug\net8.0\Warehouse Inventory.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\bin\Debug\net8.0\Warehouse Inventory.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.AssemblyInfoInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.AssemblyInfo.cs
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.sourcelink.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\refint\Warehouse Inventory.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\Warehouse Inventory.genruntimeconfig.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\Warehouse Inventory\Warehouse Inventory\obj\Debug\net8.0\ref\Warehouse Inventory.dll

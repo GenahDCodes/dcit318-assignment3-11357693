@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\warehouseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\warehouseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\class1.csihaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\class1.csihaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|c:\\users\\aminu umar\\source\\repos\\genahdcodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\warehouse inventory\\warehouse inventory\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA4970-4B85-4F64-855E-D00E3C53FADF}|Warehouse Inventory\\Warehouse Inventory.csproj|solutionrelative:warehouse inventory\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseApp.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\WarehouseApp.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\WarehouseApp.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\WarehouseApp.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\WarehouseApp.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:11:57.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Program.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:06:56.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Inventory.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\Inventory.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:11:29.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\InventoryItem.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\InventoryItem.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAA3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:11:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.csIHasKey.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Class1.csIHasKey.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\Class1.csIHasKey.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Class1.csIHasKey.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\Class1.csIHasKey.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:10:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Warehouse Inventory\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Aminu Umar\\source\\repos\\GenahDCodes\\dcit318-assignment3-11357693\\dcit318-assignment3-11357693\\Warehouse Inventory\\Warehouse Inventory\\Exceptions.cs*",
+              "RelativeToolTip": "Warehouse Inventory\\Exceptions.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:09:54.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
