@@ -1,0 +1,15 @@
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.AssemblyInfoInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.AssemblyInfo.cs
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.csproj.CoreCompileInputs.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.sourcelink.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\bin\Debug\net8.0\InventoryLogger.exe
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\bin\Debug\net8.0\InventoryLogger.deps.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\bin\Debug\net8.0\InventoryLogger.runtimeconfig.json
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\bin\Debug\net8.0\InventoryLogger.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\bin\Debug\net8.0\InventoryLogger.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\refint\InventoryLogger.dll
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.pdb
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\InventoryLogger.genruntimeconfig.cache
+C:\Users\Aminu Umar\source\repos\GenahDCodes\dcit318-assignment3-11357693\dcit318-assignment3-11357693\InventoryLogger\InventoryLogger\obj\Debug\net8.0\ref\InventoryLogger.dll

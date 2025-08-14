@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "A4 Paper (Ream)",
+    "Quantity": 25,
+    "DateAdded": "2025-08-14T21:31:22.5551892+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Black Ink Cartridge",
+    "Quantity": 10,
+    "DateAdded": "2025-08-14T21:31:22.5551892+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Stapler",
+    "Quantity": 5,
+    "DateAdded": "2025-08-14T21:31:22.5551892+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Desk Lamp",
+    "Quantity": 8,
+    "DateAdded": "2025-08-14T21:31:22.5551892+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Notebook",
+    "Quantity": 40,
+    "DateAdded": "2025-08-14T21:31:22.5551892+00:00"
+  }
+]
